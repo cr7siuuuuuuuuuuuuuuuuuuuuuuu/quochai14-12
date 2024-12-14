@@ -1,0 +1,6 @@
+abc
+abc\ndef
+\n
+abc
+def
+abc	def
